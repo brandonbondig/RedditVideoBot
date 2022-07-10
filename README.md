@@ -1,7 +1,7 @@
 
 # RedditVideoMaker
 
-Inspired by https://github.com/elebumm Reddit bot, i decided to do my own take on the project.
+Inspired by https://github.com/elebumm Reddit bot, i decided to do my own take on the project from scratch.
 
 ## Demo
 ### Heres what to expect from the bot:
