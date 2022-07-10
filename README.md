@@ -6,7 +6,7 @@ Inspired by https://github.com/elebumm Reddit bot, i decided to do my own take o
 ## Demo
 ### Heres what to expect from the bot:
 
-https://user-images.githubusercontent.com/24784535/178157720-69bf0c3b-ff72-45ee-aeba-84644d51da96.mp4
+https://user-images.githubusercontent.com/24784535/178159243-4cdc6526-695b-42a2-978b-16aca1bf5faf.mp4
 
 ## Disclaimers
 
